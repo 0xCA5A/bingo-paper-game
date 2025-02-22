@@ -1,0 +1,9 @@
+.direnv
+.venv
+
+__pycache__
+
+
+out
+
+.idea
